@@ -1,0 +1,130 @@
+[
+  {
+    "name": "RMF FM",
+    "stream": "http://217.74.72.11:8000/rmf_fm"
+  },
+  {
+    "name": "RMF Classic",
+    "stream": "http://217.74.72.10:8000/rmf_classic"
+  },
+  {
+    "name": "RMF MAXXX",
+    "stream": "http://217.74.72.10:8000/rmf_maxxx"
+  },
+  {
+    "name": "RMF Alternatywa",
+    "stream": "http://217.74.72.11:8000/rmf_alternatywa"
+  },
+  {
+    "name" : "ESKA Poznań",
+    "stream" : "http://waw02-02.ic.smcdn.pl:8000/t043-1.mp3"
+  },
+  {
+    "name" : "ELKA Jarocin",
+    "stream" : "http://live.elka.pl:8000/jarocin"
+  },
+  {
+    "name": "Radio ZET",
+    "stream": "https://n-15-3.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx"
+  },
+  {
+    "name": "VOX FM",
+    "stream": "http://waw01-01.ic.smcdn.pl:8000/t107-1.mp3"
+  },
+  {
+    "name": "TOK FM",
+    "stream": "http://wroclaw.radio.pionier.net.pl:8000/pl/tuba10-1.mp3"
+  },
+  {
+    "name" : "Blue FM Poznań",
+    "stream" : "http://stream10.radioagora.pl:80/bluefm.mp3"
+  },
+  {
+    "name" : "Radio Złote Przeboje",
+    "stream" : "http://stream.radioagora.pl/tuba8936-1.mp3"
+  },
+  {
+    "name" : "Polskie Radio 1",
+    "stream" : "http://stream3.polskieradio.pl:8900/"
+  },
+  {
+    "name" : "Polskie Radio 2",
+    "stream" : "http://stream3.polskieradio.pl:8902/"
+  },
+  {
+    "name" : "Polskie Radio 3",
+    "stream" : "http://stream3.polskieradio.pl:8904/"
+  },
+  {
+    "name" : "Polskie Radio 24",
+    "stream" : "http://stream3.polskieradio.pl:8080/"
+  },
+  {
+    "name" : "Antyradio",
+    "stream" : "https://n-15-3.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx"
+  },
+  {
+    "name" : "Radio Poznań",
+    "stream" : "http://stream4.nadaje.com:8578/poznan"
+  },
+  {
+    "name" : "MC Radio",
+    "stream" : "http://stream4.nadaje.com:8624/mcradio"
+  },
+  {
+    "name" : "Radio Kaszebe",
+    "stream" : "http://stream3.nadaje.com:8048/;0872561763972044stream.nsv"
+  },
+  {
+    "name" : "Radio PLUS",
+    "stream" : "http://plu02.cdn.eurozet.pl:8318/plu-waw.mp3"
+  },
+  {
+    "name" : "Minimal Mix",
+    "stream" : "http://5.39.71.159:8750/stream.nsv"
+  },
+  {
+    "name" : "Radio Niepokalanów",
+    "stream" : "http://88.199.169.10:8000/;"
+  },
+  {
+    "name" : "Radio Maryja",
+    "stream" : "http://51.68.135.155/;stream.mp3"
+  },
+  {
+    "name" : "Radio Szczecin",
+    "stream" : "http://stream4.nadaje.com:11986/prs"
+  },
+  {
+    "name": "Radio Szczecin Extra",
+    "stream": "http://stream3.nadaje.com:8200/szczecinfm?hash=1487522603361.mp3"
+  },
+  {
+    "name" : "Radio Parada",
+    "stream" : "http://stream4.nadaje.com:15274/live"
+  },
+  {
+    "name" : "Radio NONAME",
+    "stream" : "http://188.165.195.176:8058/stream/;"
+  },
+  {
+    "name" : "Forever 80s",
+    "stream" : "http://sirius.shoutca.st:8761/1"
+  },
+  {
+    "name" : "Radio MRS",
+    "stream" : "http://play.radiomrs.com:7494/;stream.nsv"
+  },
+  {
+    "name" : "Radio Baobab",
+    "stream" : "http://stream.radiobaobab.pl:8000/radiobaobab.mp3"
+  },
+  {
+    "name" : "Metal Live Radio",
+    "stream" : "http://51.255.8.139:8738/stream"
+  },
+  {
+    "name" : "Radio WAWA",
+    "stream" : "http://waw02-03.ic.smcdn.pl:8000/t050-1.mp3"
+  }
+]

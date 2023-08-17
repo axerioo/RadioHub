@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioHub</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="no_stream">Błąd transmisji</string>
+    <string name="buffering">Buforowanie…</string>
+    <string name="live_broadcast">Obsługa radia</string>
+    <string name="radio_station">Stacja radiowa</string>
+    <string name="todo">todo</string>
+    <string name="author">K4M1L</string>
+    <string name="search">Szukaj stacji</string>
+</resources>
