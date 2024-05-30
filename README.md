@@ -1,3 +1,3 @@
 # RadioHub
  
-Simple radio application with polish radio stations for Android.
+Simple radio application for Android with polish radio stations.
